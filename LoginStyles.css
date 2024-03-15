@@ -1,0 +1,36 @@
+form {
+	width: 30vw;
+	margin: auto;
+}
+
+body {
+	text-align: center;
+	margin: 15em auto
+}
+
+label {
+  display: inline-block;
+  margin: 0.5rem;
+}
+
+label [type="text"] {
+	width: 250px;
+	height: 25px;
+}
+
+label [type="password"] {
+	width: 250px;
+	height: 25px;
+}
+
+input[type="submit"] {
+  width: 30%;
+  height: 2.5em;
+  font-size: 15px;
+}
+
+fieldset {
+  border-radius: 8px;
+  box-shadow: 3px 3px 20px;
+
+}
